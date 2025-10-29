@@ -2,7 +2,7 @@
 - 👀 I’m interested in music and FPGA
 - 🌱 I’m currently in undergraduate
 - 💞️ I’m looking to collaborate on FPGA, PCB design, and audio reinforcement learning
-- 📫 How to reach me 18607622063@163.com  or leave me a message under the repository
+- 📫 How to reach me 2863103442@qq.com  or leave me a message under the repository
 
 你好！我是小秋~！
 
